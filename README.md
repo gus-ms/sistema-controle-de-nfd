@@ -48,8 +48,14 @@ Este projeto foi desenvolvido com foco em resolver uma necessidade real de negó
 
 ---
 
+![Tela de Consultas](screenshots/tela-de-consulta.png)
+
+
+---
+
 ## 💡 Caso de Uso
-### Este sistema foi desenvolvido para automatizar uma rotina administrativa relacionada ao controle de Notas Fiscais de Devolução, reduzindo erros manuais e tornando o processo mais eficiente.
+
+> Este sistema foi desenvolvido para automatizar uma rotina administrativa relacionada ao controle de Notas Fiscais de Devolução, reduzindo erros manuais e tornando o processo mais eficiente.
 
 - 📈 Benefícios da Solução
 - ⏱️ Redução do tempo de processamento

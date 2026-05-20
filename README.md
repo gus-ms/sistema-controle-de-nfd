@@ -1,4 +1,4 @@
-# 📄 Sistema de Controle de NFD
+# 📄 Sistema de Controle de Notas Fiscais de Devolução (NFD)
 ### 🚀 Automação de Notas Fiscais de Devolução com Python
 
 > Aplicação desenvolvida em Python para automatizar o controle e processamento de Notas Fiscais de Devolução (NFD), com interface gráfica intuitiva, integração com planilhas Excel e geração de versão executável para Windows.
@@ -76,7 +76,9 @@ Durante o desenvolvimento deste projeto, foram aplicados conhecimentos em:
 
 ---
 
-👨‍💻 Autor
-<div align="center">
-Gustavo Matias Silva ![Linkedin](https://linkedin.com/in/gustavomatiassilva/)
-</div>
+## 👨‍💻 Autor
+
+**Gustavo Matias Silva**
+
+🔗 LinkedIn: [gustavomatiassilva](https://www.linkedin.com/in/gustavomatiassilva/)  
+💻 GitHub: [gus-ms](https://github.com/gus-ms)
